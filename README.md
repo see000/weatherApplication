@@ -41,7 +41,8 @@ Feel free to reach out to us with any questions or feedback at [email address](#
 Stay tuned for future updates with new features and improvements!
 
 ## Screenshots
-![Weather_Application_Demo_Screenshot](https://github.com/see000/weatherApplication/assets/76932211/86483899-b3e9-4947-9b4f-2fa204c63640)
+![Weather_Application_Demo_Screenshots](https://github.com/see000/weatherApplication/assets/76932211/5516945c-8c7f-4d18-a58d-b1180754ea88)
+
 
 
 
